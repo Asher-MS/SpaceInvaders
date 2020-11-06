@@ -11,3 +11,11 @@ It was the inspiration for numerous video games and game designers across differ
 The 1980 Atari VCS version quadrupled sales of the VCS, thereby becoming the first killer app for video game consoles. More broadly, the pixelated enemy alien has become a pop culture icon, often representing video games as a whole.
 
 ![Space Invaders](https://mms.businesswire.com/media/20190514005253/en/721112/5/crab.jpg)
+
+
+How To Use
+>>Make sure you install python
+>>Install Pygame using "pip install pygame"
+>>clone this repo using "git clone https://github.com/Asher-MS/SpaceInvaders"
+click on Spceinvaders.py
+
